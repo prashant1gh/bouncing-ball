@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.ball {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    top: 250px;
+    left: 250px;
+    position: absolute;
+}
+
+.box {
+    height: 500px;
+    width: 500px;
+    border: 5px solid black;
+}
